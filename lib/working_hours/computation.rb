@@ -1,4 +1,4 @@
-require 'active_support/all'
+require 'active_support/values/time_zone'
 require 'working_hours/config'
 
 module WorkingHours
